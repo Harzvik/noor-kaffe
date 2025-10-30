@@ -1,0 +1,8 @@
+/* Global variables - Example */
+:root {
+    --primary-color: #4CAF50;
+    --secondary-color: #FFC107;
+    --background-color: #F5F5F5;
+    --text-color: #333333;
+    --font-family: 'Arial', sans-serif;
+}
