@@ -1,8 +1,14 @@
-/* Global variables - Example */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
 :root {
-    --primary-color: #4CAF50;
-    --secondary-color: #FFC107;
-    --background-color: #F5F5F5;
-    --text-color: #333343;
-    --font-family: 'Arial', sans-serif;
+  --color-primary: #136b6f;
+  --color-secondary: #dd9e5a;
+  --color-background: #ffefe4;
+  --color-info: #cb605d;
+  --color-text-dark: #1c1814;
+  --color-text-light: #ffffff;
+
+  --font-accent-playfair: "Playfair Display", Georgia, "Times New Roman", Times,
+    serif;
+  --font-main-inter: "Inter", Arial, Helvetica, sans-serif;
 }
